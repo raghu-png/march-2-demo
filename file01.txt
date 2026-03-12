@@ -1,2 +1,6 @@
 hi how are you
+<<<<<<< HEAD
 good to see you
+=======
+nice to see you
+>>>>>>> 0e1ef32003baef7a36efbe2cab718c7b391904ee
